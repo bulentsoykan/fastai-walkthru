@@ -1,2 +1,7 @@
 # fastai-walkthru
-sample repo for walkhru 2 of fast.ai course
+
+## Introduction
+
+This is a sample repo for walkhru 2 of fast.ai course
+
+- First
